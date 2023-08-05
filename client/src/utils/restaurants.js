@@ -21,7 +21,7 @@ const restaurants = [
                     "itemName" : "Samosa",
                     "description" : "A fried or baked pastry with a savory filling, such as spiced potatoes, onions, peas.",
                     "price" : "$3.00",
-                    "image":"https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photos/937b98e5-fed1-4c62-a148-cb05fd3237c8-retina-large-jpeg "
+                    "image":"https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photos/937b98e5-fed1-4c62-a148-cb05fd3237c8-retina-large-jpeg"
                 },
                 {
                     "itemName" : "Kati Roll",
